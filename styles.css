@@ -1,0 +1,16 @@
+
+fieldset{
+    max-width: 500px;
+    margin: 1rem auto;
+    padding: 1rem;
+    box-sizing: border-box;
+    border: 2px solid black;
+    box-shadow: 5px 10px 15px;
+}
+
+input,select{
+    width: 100%;
+    margin: 0.5rem 0 ;
+    padding: 0.25rem 0;
+}
+
